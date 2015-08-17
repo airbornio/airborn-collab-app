@@ -1,0 +1,3 @@
+[submodule "airbornos"]
+	path = airbornos
+	url = https://github.com/airbornos/airbornos.git
